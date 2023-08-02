@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adelakun Yusuf Adekunle</h1>
 <h3 align="center">A passionate Machine learning engineer from Nigeria</h3>
-
-
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adelakun1999&label=Profile%20views&color=0e75b6&style=flat" alt="adelakun1999" /> </p>
@@ -13,8 +11,6 @@
 - 🌱 I’m currently learning **Natural language processing**
 
 - 💬 Ask me about **python, Machine learning**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Mu0CM35kIAvQqV7Hjh35WdESrqlkUDj4/view?usp=sharing](https://drive.google.com/file/d/1Mu0CM35kIAvQqV7Hjh35WdESrqlkUDj4/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am funny**
 
