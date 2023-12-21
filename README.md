@@ -1,3 +1,5 @@
+ 
+
 <h1 align="center">Hi 👋, I'm Adelakun Yusuf Adekunle</h1>
 <h3 align="center">A passionate Machine learning engineer from Nigeria</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -6,13 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/yusufadelakun1" target="blank"><img src="https://img.shields.io/twitter/follow/yusufadelakun1?logo=twitter&style=for-the-badge" alt="yusufadelakun1" /></a> </p>
 
-- 🔭 I’m currently working on **Malaria image classification**
+- 🔭 I’m currently working on **Natural Language Processing**
 
-- 🌱 I’m currently learning **Natural language processing**
+- 🌱 I’m currently learning **Python, Data Science &  and ML**
 
 - 💬 Ask me about **python, Machine learning**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **I love football and love reading Machine learning related articles**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
