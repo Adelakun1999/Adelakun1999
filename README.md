@@ -10,9 +10,9 @@
 
 - 🔭 I’m currently working on **Natural Language Processing**
 
-- 🌱 I’m currently learning **Phyton, Data Science &  and ML**
+- 🌱 I’m currently learning **Python, Data Science &  and ML**
 
-- 💬 Ask me about **phyton, Machine learning**
+- 💬 Ask me about **Python, Machine learning**
 
 - ⚡ Fun fact **I love football and love reading Machine learning related articles**
 
