@@ -8,9 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/yusufadelakun1" target="blank"><img src="https://img.shields.io/twitter/follow/yusufadelakun1?logo=twitter&style=for-the-badge" alt="yusufadelakun1" /></a> </p>
 
-- 🔭 I’m currently working on **Natural Language Processing**
-
-- 🌱 I’m currently learning **Python, Data Science &  and ML**
+- 🔭 I’m currently working on **Automatic Speech recognition (ASR)**
 
 - 💬 Ask me about **Python, Machine learning**
 
